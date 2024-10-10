@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Hello, I'm Andrea Mwonge, a dealer i  all kinds of aplliances.
+These appliances are computers, CCTV cameras, home appliances and office appliances.
+we offer a number of services that include all software upgrade and maintenance among others.
 <!--
 **Andrea-Mwonge/Andrea-mwonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
